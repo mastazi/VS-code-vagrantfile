@@ -12,7 +12,7 @@ This VS Code extension provides syntax highlighting support for Vagrantfile, use
 
 1. Install Visual Studio Code first.
 2. Locate your home folder. In Windows, your home folder is probably C:\Users\\*YourName*, in Mac it's probably /Users/*yourname* and in Linux it's probably /home/*yourname*
-3. Place the 'drupal' folder under *[your_home_folder]*/.vscode/extensions.
+3. Place the 'vagrant' folder under *[your_home_folder]*/.vscode/extensions.
 4. Restart Visual Studio Code
 
 ### Supported file type:
