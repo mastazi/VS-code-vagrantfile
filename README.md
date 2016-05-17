@@ -1,4 +1,4 @@
-# Vagrantfile Support for Visual Studio Code
+# Vagrantfile Support
 
 This VS Code extension provides syntax highlighting support for Vagrantfile, useful if you use Vagrant.
 
@@ -6,7 +6,7 @@ This VS Code extension provides syntax highlighting support for Vagrantfile, use
 
 1. Open the Command Palette in VS Code (Ctrl-Shift-P, Mac: Cmd-Shift-P)
 2. Type `ext install vagrantfile`
-3. Locate the package "Vagrantfile Support for Visual Studio Code" from the results list and press enter.
+3. Locate the package "Vagrantfile Support" from the results list and press enter.
 
 ### Manual Installation:
 

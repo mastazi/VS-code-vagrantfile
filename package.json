@@ -1,10 +1,10 @@
 {
     "name": "VS-code-vagrantfile",
-    "displayName": "Vagrantfile Support for Visual Studio Code",
-    "description": "This VS Code extension provides syntax highlighting support for Vagrantfile, useful if you use Vagrant",
+    "displayName": "Vagrantfile Support",
+    "description": "Provides syntax highlighting support for Vagrantfile, useful if you use Vagrant",
     "version": "0.0.3",
     "engines": {
-        "vscode": "1.0.x"
+        "vscode": "1.x.x"
     },
     "repository": {
         "type": "git",
