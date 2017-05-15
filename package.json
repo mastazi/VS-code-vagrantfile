@@ -17,9 +17,14 @@
     ],
     "publisher": "marcostazi",
     "contributes": {
-        "languages": [{
-            "id": "ruby",
-            "filenames": [ "Vagrantfile" ]
-        }]
+        "languages": [
+			{
+				"id": "ruby",
+				"filenames": [
+					"Vagrantfile",
+					".vagrantuser"
+				]
+			}
+		]
     }
 }
