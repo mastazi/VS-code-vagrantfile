@@ -2,7 +2,7 @@
     "name": "VS-code-vagrantfile",
     "displayName": "Vagrantfile Support",
     "description": "Provides syntax highlighting support for Vagrantfile, useful if you use Vagrant",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "1.x.x"
     },
@@ -21,7 +21,8 @@
 			"id": "ruby",
 			"filenames": [
 				"Vagrantfile",
-				".vagrantuser"
+				".vagrantuser",
+                "Vagrantfile.local"
 			]
 		}]
     }
