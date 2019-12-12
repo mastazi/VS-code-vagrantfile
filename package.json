@@ -11,19 +11,19 @@
         "url": "https://github.com/mastazi/VS-code-vagrantfile.git"
     },
     "license": "SEE LICENSE IN LICENSE.txt",
-	"icon": "images/icon.png",
+    "icon": "images/icon.png",
     "categories": [
         "Other"
     ],
     "publisher": "marcostazi",
     "contributes": {
         "languages": [{
-			"id": "ruby",
-			"filenames": [
-				"Vagrantfile",
-				".vagrantuser",
+            "id": "ruby",
+            "filenames": [
+                "Vagrantfile",
+                ".vagrantuser",
                 "Vagrantfile.local"
-			]
-		}]
+            ]
+        }]
     }
 }
